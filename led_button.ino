@@ -1,6 +1,6 @@
 // --- SISTEMAS EMBARCADOS ---
 // Aula dia 05/03/2018
-// Aluna: Jessica de Souza
+// Aluna: Jessica de Souza 
 
 //Atividade: https://wiki.sj.ifsc.edu.br/wiki/index.php/ESTE:_General_Purpose_Input_and_Output_(GPIO)
 // Testando as GPIOs do Arduino
