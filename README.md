@@ -6,7 +6,7 @@ Wiki da disciplina: https://wiki.sj.ifsc.edu.br/wiki/index.php/STE29008-2018-1
 
 Aulas por arquivo:
 
-  Arduino
+  Arduino - 
     Aula 6 - 05/03/18 - 
         led_button.ino
 
@@ -26,6 +26,6 @@ Aulas por arquivo:
     Aula 11 - 02/04/18 - 
         ledPwm.ino
 
-  AVR
+  AVR - 
     Aula 12 - 06/04/18 - 
     Aula 13 - 09/04/18 - 
