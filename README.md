@@ -23,5 +23,7 @@ Aulas por arquivo:
       GPIO_external_interrupt.ino
       
   Aula 11 - 02/04/18 - 
+      ledPwm.ino
+      
   Aula 12 - 06/04/18 - 
   Aula 13 - 09/04/18 - 
